@@ -1,23 +1,54 @@
+
 [
     {
-      "name": "Project 1",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "name": "Consultancy website",
+      "description": "A next js built website that haves information regarding study abroad ",
       "techStack": ["HTML", "CSS", "JavaScript"],
+      "projectImage": "",
       "siteURL": "https://example.com/project1",
       "githubURL": "https://github.com/username/project1"
     },
     {
-      "name": "Project 2",
-      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "name": "Ancestry web application ",
+      "description": "A project for viewing and adding ancestors of someone ",
       "techStack": ["React", "Node.js", "Express"],
+      "projectImage": "",
+
+       
+      
       "siteURL": "https://example.com/project2",
       "githubURL": "https://github.com/username/project2"
     },
     {
-      "name": "Project 3",
-      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "name": "Language Learning Application",
+      "description": "Mobile application with capabilities to teach a person nepali language",
       "techStack": ["Python", "Django", "PostgreSQL"],
       "siteURL": "https://example.com/project3",
+      
+      "githubURL": "https://github.com/username/project3"
+    },
+    {
+      "name": "Treeking and Tours company website",
+      "description": "A site for providing information about treks and tours for tourists and treekers",
+      "techStack": ["Python", "Django", "PostgreSQL"],
+      "siteURL": "https://example.com/project3",
+      
+      "githubURL": "https://github.com/username/project3"
+    },
+    {
+      "name": "Cosmetics website ",
+      "description": "Ecommerce website with add to cart and payment functionality using esewa/khalti",
+      "techStack": ["Python", "Django", "PostgreSQL"],
+      "siteURL": "https://example.com/project3",
+      
+      "githubURL": "https://github.com/username/project3"
+    },
+    {
+      "name": "Adventure in Nepal website",
+      "description": "Again another project for adventure lovers wishing to travels via bikes and also can book the tour",
+      "techStack": ["Python", "Django", "PostgreSQL"],
+      "siteURL": "https://example.com/project3",
+      
       "githubURL": "https://github.com/username/project3"
     }
   ]

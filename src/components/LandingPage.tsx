@@ -1,4 +1,3 @@
-// components/LandingPage.tsx
 
 import React from 'react';
 import { Grid, Typography, Box, Button } from '@mui/material';
@@ -6,7 +5,6 @@ import { Grid, Typography, Box, Button } from '@mui/material';
 const LandingPage: React.FC = () => {
   return (
     <Grid container>
-      {/* Left side: Title and Description */}
       <Grid item xs={12} sm={6} md={6} lg={6} xl={6} sx={{ padding: '2rem' }}>
         <Typography sx={{mt: 2}}variant="h3" gutterBottom >
           Welcome! <br /> I am <span style={{ color: '#e5de00' }}>Bishal Adhikari,</span><br /> a Fullstack Developer
